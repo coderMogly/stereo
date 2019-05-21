@@ -1,0 +1,24 @@
+<package format="2">
+    <name>stereo_loc</name>
+    <version>1.16.2</version>
+    <description>
+
+       This is for stereo localization
+
+    </description>
+    <author>Anirudh Yadav</author>
+    <author>anirudhyadav1001@gmail.com</author>
+    <maintainer email="anirudhyadav1001@gmail.com">anirudh yadav</maintainer>
+    <license>BSD</license>
+    <url>http://dadadada.com</url>
+
+    <buildtool_depend>catkin</buildtool_depend>
+
+    <build_depend>cmake_modules</build_depend>
+    <build_depend>mathlib</build_depend>
+    <depend>roscpp</depend>
+    <depend>rospy</depend>
+    <depend>tf2_ros</depend>
+
+
+</package>
